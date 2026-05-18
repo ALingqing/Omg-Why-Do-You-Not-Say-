@@ -1,14 +1,18 @@
 # OMG, WHY DO YOU NOT SAY!!!!!!!
 #我去！！！不早说！！！
-[![pexKX59.jpg](https://s41.ax1x.com/2026/05/18/pexKX59.jpg)](https://imgchr.com/i/pexKX59)
+
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-blue)
 ![Paper](https://img.shields.io/badge/Paper-1.20.1-brightgreen)
 ![Folia](https://img.shields.io/badge/Folia-%E2%9C%93-supported)
 
+[![pexKX59.jpg](https://s41.ax1x.com/2026/05/18/pexKX59.jpg)](https://imgchr.com/i/pexKX59)
+
 > 一个"延迟"检测玩家动作并发送夸张提示的 Minecraft Paper 插件。
 此插件模仿百科模组 [mcmod.cn](https://www.mcmod.cn/class/26019.html)
 当玩家在服务器中破坏方块、放置方块或被攻击时，插件会在延迟数秒后向该玩家发送一条醒目的夸张提示消息 —— "你在 X 秒前挖了一个 XXX ！！！！"，营造出一种"后知后觉"的幽默效果。
+
 [![pexKvCR.png](https://s41.ax1x.com/2026/05/18/pexKvCR.png)](https://imgchr.com/i/pexKvCR)
+
 [![pexKx81.png](https://s41.ax1x.com/2026/05/18/pexKx81.png)](https://imgchr.com/i/pexKx81)
 
 ##  功能特性
