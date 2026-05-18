@@ -1,7 +1,5 @@
 package top.chenray.omg_why_do_you_not_say.listener;
 
-import net.md_5.bungee.api.ChatColor;
-import net.md_5.bungee.api.chat.TextComponent;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
@@ -111,11 +109,7 @@ public class PlayerListener implements Listener {
                 }
             }
 
-            TextComponent component = new TextComponent(message);
-            component.setColor(ChatColor.RED);
-            component.setBold(true);
-
-            player.spigot().sendMessage(component);
+            player.sendTitle(message, "", 10, 70, 20);
         }, delaySeconds * 20L);
     }
 }
