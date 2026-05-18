@@ -1,5 +1,5 @@
 # OMG, WHY DO YOU NOT SAY!!!!!!!
-
+[![pexKX59.jpg](https://s41.ax1x.com/2026/05/18/pexKX59.jpg)](https://imgchr.com/i/pexKX59)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-blue)
 ![Paper](https://img.shields.io/badge/Paper-1.20.1-brightgreen)
 ![Folia](https://img.shields.io/badge/Folia-%E2%9C%93-supported)
@@ -7,17 +7,19 @@
 > 一个"延迟"检测玩家动作并发送夸张提示的 Minecraft Paper 插件。
 
 当玩家在服务器中破坏方块、放置方块或被攻击时，插件会在延迟数秒后向该玩家发送一条醒目的夸张提示消息 —— "你在 X 秒前挖了一个 XXX ！！！！"，营造出一种"后知后觉"的幽默效果。
+[![pexKvCR.png](https://s41.ax1x.com/2026/05/18/pexKvCR.png)](https://imgchr.com/i/pexKvCR)
+[![pexKx81.png](https://s41.ax1x.com/2026/05/18/pexKx81.png)](https://imgchr.com/i/pexKx81)
 
 ## ✨ 功能特性
 
-- ⛏️ **方块破坏检测** — 玩家破坏方块后延迟提示
-- 🧱 **方块放置检测** — 玩家放置方块后延迟提示
-- ⚔️ **攻击检测** — 玩家被攻击后延迟提示
-- 🌐 **多语言支持** — 内置 50+ 种语言文件，自动根据客户端语言显示对应消息
-- ⏱️ **可配置延迟** — 延迟秒数可在 1~10 秒之间自由调整
-- 🎨 **醒目消息** — 红色加粗文字，夸张语气，效果拉满
-- 🧵 **Folia 兼容** — 完美支持 Folia 区域化线程调度
-- 🔧 **高度可配** — 每个功能均可独立开关
+- **方块破坏检测** — 玩家破坏方块后延迟提示
+- **方块放置检测** — 玩家放置方块后延迟提示
+- **攻击检测** — 玩家被攻击后延迟提示
+- **多语言支持** — 内置 50+ 种语言文件，自动根据客户端语言显示对应消息
+- **可配置延迟** — 延迟秒数可在 1~10 秒之间自由调整
+- **醒目消息** — 红色加粗文字，夸张语气，效果拉满
+- **Folia 兼容** — 完美支持 Folia 区域化线程调度
+- **高度可配** — 每个功能均可独立开关
 
 ## 📥 安装
 
