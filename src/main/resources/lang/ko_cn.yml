@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: 모드 활성화
+config.omg_why_do_you_not_say.delaySeconds: 지연 초수
+config.omg_why_do_you_not_say.notifyBreak: 블록 파괴 알림
+config.omg_why_do_you_not_say.notifyPlace: 블록 설치 알림
+config.omg_why_do_you_not_say.notifyAttack: 피격 알림
+message.break: '%d초 전에 %s을(를) 부쉈습니다!!!!!!!!'
+message.place: '%d초 전에 %s을(를) 설치했습니다!!!!!!!!'
+message.attack: '%d초 전에 %s에게 공격받았습니다!!!!!!!!'

@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Enable Mod
+config.omg_why_do_you_not_say.delaySeconds: Delay Seconds
+config.omg_why_do_you_not_say.notifyBreak: Notify Block Break
+config.omg_why_do_you_not_say.notifyPlace: Notify Block Place
+config.omg_why_do_you_not_say.notifyAttack: Notify Being Attacked
+message.break: '%d seconds ago you broke %s!!!!!!!!'
+message.place: '%d seconds ago you placed %s!!!!!!!!'
+message.attack: '%d seconds ago you were attacked by %s!!!!!!!!'

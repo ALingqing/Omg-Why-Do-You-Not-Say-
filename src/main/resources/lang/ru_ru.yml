@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Включить мод
+config.omg_why_do_you_not_say.delaySeconds: Задержка в секундах
+config.omg_why_do_you_not_say.notifyBreak: Уведомлять о разрушении блока
+config.omg_why_do_you_not_say.notifyPlace: Уведомлять о размещении блока
+config.omg_why_do_you_not_say.notifyAttack: Уведомлять об атаке
+message.break: '%d секунд назад вы сломали %s!!!!!!!!'
+message.place: '%d секунд назад вы разместили %s!!!!!!!!'
+message.attack: '%d секунд назад на вас напал %s!!!!!!!!'

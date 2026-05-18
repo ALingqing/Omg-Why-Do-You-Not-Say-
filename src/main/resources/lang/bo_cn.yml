@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: མོད་ སྒོ་འབྱེད་གནང་།
+config.omg_why_do_you_not_say.delaySeconds: འགོར་ཚོད་(སྐར་ཆ།)
+config.omg_why_do_you_not_say.notifyBreak: རྡོ་རྩིག་བཤིག་སྐབས་བརྡ་འཕྲིན་གནང་།
+config.omg_why_do_you_not_say.notifyPlace: རྡོ་རྩིག་བཞག་སྐབས་བརྡ་འཕྲིན་གནང་།
+config.omg_why_do_you_not_say.notifyAttack: མགོ་རྡུང་བྱུང་སྐབས་བརྡ་འཕྲིན་གནང་།
+message.break: 你在 %d 秒前挖了一个 %s ！！！！
+message.place: 你在 %d 秒前放置了一个 %s ！！！！
+message.attack: 你在 %d 秒前被 %s 攻击了！！！！

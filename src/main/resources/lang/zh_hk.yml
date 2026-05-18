@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: 啟用模組
+config.omg_why_do_you_not_say.delaySeconds: 延遲秒數
+config.omg_why_do_you_not_say.notifyBreak: 通知方塊破壞
+config.omg_why_do_you_not_say.notifyPlace: 通知方塊放置
+config.omg_why_do_you_not_say.notifyAttack: 通知受到攻擊
+message.break: 你在 %d 秒前挖了一個 %s ！！！！
+message.place: 你在 %d 秒前放置了一個 %s ！！！！
+message.attack: 你在 %d 秒前被 %s 攻擊了！！！！

@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Patikim Mod
+config.omg_why_do_you_not_say.delaySeconds: Panguluhon (Detik)
+config.omg_why_do_you_not_say.notifyBreak: Paboa Molo Rongkap Blok
+config.omg_why_do_you_not_say.notifyPlace: Paboa Molo Pasang Blok
+config.omg_why_do_you_not_say.notifyAttack: Paboa Molo Tinjang
+message.break: 你在 %d 秒前挖了一个 %s ！！！！
+message.place: 你在 %d 秒前放置了一个 %s ！！！！
+message.attack: 你在 %d 秒前被 %s 攻击了！！！！

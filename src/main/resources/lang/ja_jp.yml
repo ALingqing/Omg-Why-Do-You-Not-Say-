@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Modを有効にする
+config.omg_why_do_you_not_say.delaySeconds: 遅延秒数
+config.omg_why_do_you_not_say.notifyBreak: ブロック破壊を通知
+config.omg_why_do_you_not_say.notifyPlace: ブロック設置を通知
+config.omg_why_do_you_not_say.notifyAttack: 攻撃を受けたことを通知
+message.break: '%d秒前に%sを壊しました！！！！'
+message.place: '%d秒前に%sを設置しました！！！！'
+message.attack: '%d秒前に%sに攻撃されました！！！！'

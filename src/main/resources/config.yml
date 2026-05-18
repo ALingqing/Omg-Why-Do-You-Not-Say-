@@ -1,0 +1,21 @@
+# OMG, WHY DO YOU NOT SAY!!!!!!! 插件配置
+# 作者: 阿清ALingqing_
+
+# 是否启用插件
+enabled: true
+
+# 延迟秒数 (1-10)
+delaySeconds: 3
+
+# 通知方块破坏
+notifyBreak: true
+
+# 通知方块放置
+notifyPlace: true
+
+# 通知受到攻击
+notifyAttack: true
+
+# 语言设置 (auto = 根据客户端语言自动选择)
+# 可选: zh_cn, zh_tw, en_us 等
+language: auto

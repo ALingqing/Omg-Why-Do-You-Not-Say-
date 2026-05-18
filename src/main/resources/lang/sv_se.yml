@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Aktivera Mod
+config.omg_why_do_you_not_say.delaySeconds: Fördröjning (Sekunder)
+config.omg_why_do_you_not_say.notifyBreak: Avisera vid blockbrott
+config.omg_why_do_you_not_say.notifyPlace: Avisera vid blockplacering
+config.omg_why_do_you_not_say.notifyAttack: Avisera vid attack
+message.break: För %d sekunder sedan bröt du %s!!!!!!!!
+message.place: För %d sekunder sedan placerade du %s!!!!!!!!
+message.attack: För %d sekunder sedan attackerades du av %s!!!!!!!!

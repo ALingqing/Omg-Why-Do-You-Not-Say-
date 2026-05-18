@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: เปิดใช้งานม็อด
+config.omg_why_do_you_not_say.delaySeconds: หน่วงเวลาเป็นวินาที
+config.omg_why_do_you_not_say.notifyBreak: แจ้งการทำลายบล็อก
+config.omg_why_do_you_not_say.notifyPlace: แจ้งการวางบล็อก
+config.omg_why_do_you_not_say.notifyAttack: แจ้งเมื่อถูกโจมตี
+message.break: เมื่อ %d วินาทีก่อนคุณทำลาย %s!!!!!!!!
+message.place: เมื่อ %d วินาทีก่อนคุณวาง %s!!!!!!!!
+message.attack: เมื่อ %d วินาทีก่อนคุณถูก %s โจมตี!!!!!!!!

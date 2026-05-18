@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Gebrūcan þone Mōd
+config.omg_why_do_you_not_say.delaySeconds: Lætnesse Secundas
+config.omg_why_do_you_not_say.notifyBreak: Cȳðan þonne Bricg ābricð
+config.omg_why_do_you_not_say.notifyPlace: Cȳðan þonne Bricg āsett bið
+config.omg_why_do_you_not_say.notifyAttack: Cȳðan þonne man þec āttacað
+message.break: 你在 %d 秒前挖了一个 %s ！！！！
+message.place: 你在 %d 秒前放置了一个 %s ！！！！
+message.attack: 你在 %d 秒前被 %s 攻击了！！！！

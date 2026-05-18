@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: मोड सक्षम करीं
+config.omg_why_do_you_not_say.delaySeconds: देरी (सेकेंड)
+config.omg_why_do_you_not_say.notifyBreak: ब्लॉक तोड़ले के सूचना दीं
+config.omg_why_do_you_not_say.notifyPlace: ब्लॉक रखले के सूचना दीं
+config.omg_why_do_you_not_say.notifyAttack: हमला होखले पर सूचना दीं
+message.break: 你在 %d 秒前挖了一个 %s ！！！！
+message.place: 你在 %d 秒前放置了一个 %s ！！！！
+message.attack: 你在 %d 秒前被 %s 攻击了！！！！

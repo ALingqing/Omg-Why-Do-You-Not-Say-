@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: මෝඩය සක්‍රිය කරන්න
+config.omg_why_do_you_not_say.delaySeconds: ප්‍රමාද තත්පර
+config.omg_why_do_you_not_say.notifyBreak: බ්ලොක් කැඩීම දැනුම් දෙන්න
+config.omg_why_do_you_not_say.notifyPlace: බ්ලොක් තැබීම දැනුම් දෙන්න
+config.omg_why_do_you_not_say.notifyAttack: ප්‍රහාරයට ලක්වන විට දැනුම් දෙන්න
+message.break: 你在 %d 秒前挖了一个 %s ！！！！
+message.place: 你在 %d 秒前放置了一个 %s ！！！！
+message.attack: 你在 %d 秒前被 %s 攻击了！！！！

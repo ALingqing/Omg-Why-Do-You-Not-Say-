@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Paganahin ang Mod
+config.omg_why_do_you_not_say.delaySeconds: Segundo ng Pagkaantala
+config.omg_why_do_you_not_say.notifyBreak: Abisuhan Kapag Nasira ang Block
+config.omg_why_do_you_not_say.notifyPlace: Abisuhan Kapag Naglagay ng Block
+config.omg_why_do_you_not_say.notifyAttack: Abisuhan Kapag Inatake
+message.break: '%d segundo ang nakalipas sinira mo ang %s!!!!!!!!'
+message.place: '%d segundo ang nakalipas naglagay ka ng %s!!!!!!!!'
+message.attack: '%d segundo ang nakalipas inatake ka ni %s!!!!!!!!'

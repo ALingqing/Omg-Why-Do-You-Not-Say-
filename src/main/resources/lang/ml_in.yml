@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: മോഡ് പ്രവർത്തനക്ഷമമാക്കുക
+config.omg_why_do_you_not_say.delaySeconds: കാലതാമസം (സെക്കൻഡുകൾ)
+config.omg_why_do_you_not_say.notifyBreak: ബ്ലോക്ക് തകർക്കൽ അറിയിക്കുക
+config.omg_why_do_you_not_say.notifyPlace: ബ്ലോക്ക് സ്ഥാപിക്കൽ അറിയിക്കുക
+config.omg_why_do_you_not_say.notifyAttack: ആക്രമിക്കപ്പെടുമ്പോൾ അറിയിക്കുക
+message.break: 你在 %d 秒前挖了一个 %s ！！！！
+message.place: 你在 %d 秒前放置了一个 %s ！！！！
+message.attack: 你在 %d 秒前被 %s 攻击了！！！！

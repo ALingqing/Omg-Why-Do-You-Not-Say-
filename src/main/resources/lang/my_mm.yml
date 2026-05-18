@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: မော်ဒ်ကို ဖွင့်ပါ
+config.omg_why_do_you_not_say.delaySeconds: နှောင့်နှေးချိန် (စက္ကန့်)
+config.omg_why_do_you_not_say.notifyBreak: ဘလောက်ကျိုးသည်ကို အကြောင်းကြားပါ
+config.omg_why_do_you_not_say.notifyPlace: ဘလောက်ချသည်ကို အကြောင်းကြားပါ
+config.omg_why_do_you_not_say.notifyAttack: တိုက်ခိုက်ခံရသည်ကို အကြောင်းကြားပါ
+message.break: 你在 %d 秒前挖了一个 %s ！！！！
+message.place: 你在 %d 秒前放置了一个 %s ！！！！
+message.attack: 你在 %d 秒前被 %s 攻击了！！！！

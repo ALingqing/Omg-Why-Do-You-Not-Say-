@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Hoist the Mod
+config.omg_why_do_you_not_say.delaySeconds: Laggard Seconds
+config.omg_why_do_you_not_say.notifyBreak: Cry Out When Scuttlin' Blocks
+config.omg_why_do_you_not_say.notifyPlace: Cry Out When Placn' Blocks
+config.omg_why_do_you_not_say.notifyAttack: Cry Out When Ye Be Attacked
+message.break: '%d seconds ago ye scuttled %s!!!!!!!!'
+message.place: '%d seconds ago ye placed %s!!!!!!!!'
+message.attack: '%d seconds ago ye be attacked by %s!!!!!!!!'

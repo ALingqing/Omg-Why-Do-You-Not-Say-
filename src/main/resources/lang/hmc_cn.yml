@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Qhib Mod
+config.omg_why_do_you_not_say.delaySeconds: Txhij sij hawm (mias)
+config.omg_why_do_you_not_say.notifyBreak: Ceeb toom thaum tsoo lub block
+config.omg_why_do_you_not_say.notifyPlace: Ceeb toom thaum tso lub block
+config.omg_why_do_you_not_say.notifyAttack: Ceeb toom thaum raug tua
+message.break: 你在 %d 秒前挖了一个 %s ！！！！
+message.place: 你在 %d 秒前放置了一个 %s ！！！！
+message.attack: 你在 %d 秒前被 %s 攻击了！！！！

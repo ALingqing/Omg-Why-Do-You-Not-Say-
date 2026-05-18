@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Mod aktivieren
+config.omg_why_do_you_not_say.delaySeconds: Verzögerung (Sekunden)
+config.omg_why_do_you_not_say.notifyBreak: Bei Blockzerstörung benachrichtigen
+config.omg_why_do_you_not_say.notifyPlace: Bei Blockplatzierung benachrichtigen
+config.omg_why_do_you_not_say.notifyAttack: Bei Angriff benachrichtigen
+message.break: Vor %d Sekunden hast du %s abgebaut!!!!!!!!
+message.place: Vor %d Sekunden hast du %s platziert!!!!!!!!
+message.attack: Vor %d Sekunden wurdest du von %s angegriffen!!!!!!!!

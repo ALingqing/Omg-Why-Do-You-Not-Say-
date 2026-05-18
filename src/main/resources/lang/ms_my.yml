@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Aktifkan Mod
+config.omg_why_do_you_not_say.delaySeconds: Saat Kelewatan
+config.omg_why_do_you_not_say.notifyBreak: Notifikasi Pecah Blok
+config.omg_why_do_you_not_say.notifyPlace: Notifikasi Letak Blok
+config.omg_why_do_you_not_say.notifyAttack: Notifikasi Apabila Diserang
+message.break: '%d saat yang lalu anda memecahkan %s!!!!!!!!'
+message.place: '%d saat yang lalu anda meletakkan %s!!!!!!!!'
+message.attack: '%d saat yang lalu anda diserang oleh %s!!!!!!!!'

@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: Activar Mod
+config.omg_why_do_you_not_say.delaySeconds: Segundos de Retraso
+config.omg_why_do_you_not_say.notifyBreak: Notificar Rotura de Bloque
+config.omg_why_do_you_not_say.notifyPlace: Notificar Colocación de Bloque
+config.omg_why_do_you_not_say.notifyAttack: Notificar al Recibir Ataque
+message.break: ¡Hace %d segundos rompió %s!
+message.place: ¡Hace %d segundos colocó %s!
+message.attack: ¡Hace %d segundos fue atacado por %s!

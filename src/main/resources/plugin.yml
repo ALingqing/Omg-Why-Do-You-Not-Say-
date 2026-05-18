@@ -1,0 +1,9 @@
+name: OMG_WHY_DO_YOU_NOT_SAY
+version: 0.0.2026441836BATA
+main: top.chenray.omg_why_do_you_not_say.OMGPlugin
+api-version: 1.20
+author: 阿清ALingqing_
+description: 检测玩家动作并在延迟后显示夸张提示
+website: https://github.com/ALingqing/Omg-Why-Do-You-Not-Say-
+
+folia-supported: true

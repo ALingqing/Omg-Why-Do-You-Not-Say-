@@ -1,0 +1,8 @@
+config.omg_why_do_you_not_say.enabled: મોડ સક્ષમ કરો
+config.omg_why_do_you_not_say.delaySeconds: વિલંબ (સેકંડ)
+config.omg_why_do_you_not_say.notifyBreak: બ્લોક તોડવાની સૂચના આપો
+config.omg_why_do_you_not_say.notifyPlace: બ્લોક મૂકવાની સૂચના આપો
+config.omg_why_do_you_not_say.notifyAttack: હુમલો થાય ત્યારે સૂચના આપો
+message.break: 你在 %d 秒前挖了一个 %s ！！！！
+message.place: 你在 %d 秒前放置了一个 %s ！！！！
+message.attack: 你在 %d 秒前被 %s 攻击了！！！！
