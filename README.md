@@ -1,16 +1,17 @@
 # OMG, WHY DO YOU NOT SAY!!!!!!!
+#我去！！！不早说！！！
 [![pexKX59.jpg](https://s41.ax1x.com/2026/05/18/pexKX59.jpg)](https://imgchr.com/i/pexKX59)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-blue)
 ![Paper](https://img.shields.io/badge/Paper-1.20.1-brightgreen)
 ![Folia](https://img.shields.io/badge/Folia-%E2%9C%93-supported)
 
 > 一个"延迟"检测玩家动作并发送夸张提示的 Minecraft Paper 插件。
-
+此插件模仿百科模组 [mcmod.cn](https://www.mcmod.cn/class/26019.html)
 当玩家在服务器中破坏方块、放置方块或被攻击时，插件会在延迟数秒后向该玩家发送一条醒目的夸张提示消息 —— "你在 X 秒前挖了一个 XXX ！！！！"，营造出一种"后知后觉"的幽默效果。
 [![pexKvCR.png](https://s41.ax1x.com/2026/05/18/pexKvCR.png)](https://imgchr.com/i/pexKvCR)
 [![pexKx81.png](https://s41.ax1x.com/2026/05/18/pexKx81.png)](https://imgchr.com/i/pexKx81)
 
-## ✨ 功能特性
+##  功能特性
 
 - **方块破坏检测** — 玩家破坏方块后延迟提示
 - **方块放置检测** — 玩家放置方块后延迟提示
@@ -21,14 +22,14 @@
 - **Folia 兼容** — 完美支持 Folia 区域化线程调度
 - **高度可配** — 每个功能均可独立开关
 
-## 📥 安装
+##  安装
 
 1. 从 [Releases](https://github.com/ALingqing/omg_why_do_you_not_say/releases) 下载最新版本的 `OMG_WHY_DO_YOU_NOT_SAY-{version}.jar`
 2. 将 jar 文件放入服务器的 `plugins/` 目录
 3. 重启服务器或执行 `/reload`
 4. 插件将自动生成默认配置文件
 
-## ⚙️ 配置
+##  配置
 
 配置文件位于 `plugins/OMG_WHY_DO_YOU_NOT_SAY/config.yml`：
 
