@@ -1,9 +1,9 @@
 # OMG, WHY DO YOU NOT SAY!!!!!!!
 
-#我去！！！不早说！！！
+我去！！！不早说！！！
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-blue)
-![Paper](https://img.shields.io/badge/Paper-1.20.1-brightgreen)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21-blue)
+![Paper](https://img.shields.io/badge/Paper-1.21-brightgreen)
 ![Folia](https://img.shields.io/badge/Folia-%E2%9C%93-supported)
 
 [![pexKX59.jpg](https://s41.ax1x.com/2026/05/18/pexKX59.jpg)](https://imgchr.com/i/pexKX59)
