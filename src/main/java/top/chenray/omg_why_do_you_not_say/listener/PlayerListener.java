@@ -69,10 +69,10 @@ public class PlayerListener implements Listener {
     }
 
     /**
-     * 获取友好的方块名称（将下划线替换为空格）
+     * 获取方块注册名（如 grass_block）
      */
     private String getFriendlyBlockName(Block block) {
-        return block.getType().name().toLowerCase().replace('_', ' ');
+        return block.getType().name().toLowerCase();
     }
 
     /**
@@ -98,18 +98,31 @@ public class PlayerListener implements Listener {
             if (!player.isOnline()) return;
 
             String lang = getPlayerLanguage(player);
-            String message = languageManager.getMessageTemplate(lang, actionType, delaySeconds, targetName);
+
+            // 尝试翻译方块/实体名称
+            String displayName = targetName;
+            if ("break".equals(actionType) || "place".equals(actionType)) {
+                String translated = languageManager.getBlockName(lang, targetName);
+                if (translated != null) {
+                    displayName = translated;
+                } else {
+                    displayName = targetName.replace('_', ' ');
+                }
+            }
+
+            String message = languageManager.getMessageTemplate(lang, actionType, delaySeconds, displayName);
 
             if (message == null) {
                 // 最后的回退
                 switch (actionType) {
-                    case "break" -> message = "你在 " + delaySeconds + " 秒前挖了一个 " + targetName + " ！！！！";
-                    case "place" -> message = "你在 " + delaySeconds + " 秒前放置了一个 " + targetName + " ！！！！";
-                    case "attack" -> message = "你在 " + delaySeconds + " 秒前被 " + targetName + " 攻击了！！！！";
+                    case "break" -> message = "你在 " + delaySeconds + " 秒前挖了一个 " + displayName + " ！！！！";
+                    case "place" -> message = "你在 " + delaySeconds + " 秒前放置了一个 " + displayName + " ！！！！";
+                    case "attack" -> message = "你在 " + delaySeconds + " 秒前被 " + displayName + " 攻击了！！！！";
                 }
             }
 
-            player.sendTitle(message, "", 10, 70, 20);
+            // §c = 红色, §l = 粗体
+            player.sendTitle("§c§l" + message, "", 10, 70, 20);
         }, delaySeconds * 20L);
     }
 }

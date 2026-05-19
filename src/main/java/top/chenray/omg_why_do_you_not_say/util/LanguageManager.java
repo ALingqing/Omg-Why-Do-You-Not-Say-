@@ -62,6 +62,13 @@ public class LanguageManager {
     }
 
     /**
+     * 获取指定语言的方块名称翻译
+     */
+    public String getBlockName(String lang, String blockKey) {
+        return getTranslation(lang, "block." + blockKey);
+    }
+
+    /**
      * 加载语言文件（从插件数据文件夹或 jar 资源）
      */
     private YamlConfiguration loadLanguage(String lang) {
